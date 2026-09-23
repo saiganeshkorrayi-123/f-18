@@ -1,3 +1,0 @@
-This is my first file in java
-==========================
-This is my textfile in java
